@@ -1,0 +1,6 @@
+{
+  "appId": "com.workmate.offline",
+  "appName": "WorkMate Offline",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
